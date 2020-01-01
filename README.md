@@ -1,4 +1,4 @@
-# Remote-Quiz-Program-using-Socket-Programming-
+# Remote-Quiz-Program-using-Socket-Programming
 A remote quiz program that allows multiple users to take a quiz from a single remote server. \
 The client communicates with the server to send an answer for the questions received and to get the final score. \
 The server gets a connection request from a new user or an answer from one of the current users simultaneously. 
