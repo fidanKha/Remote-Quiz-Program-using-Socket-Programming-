@@ -4,9 +4,9 @@ The client communicates with the server to send an answer for the questions rece
 The server gets a connection request from a new user or an answer from one of the current users simultaneously. 
 It records received answers,
 distributes the questions and evaluate a final score to all of the participants in the quiz.\
-To run the code:\
-1. set path=C:\Python27\
-2. python server.py\
+To run the code:   \
+1. set path=C:\Python27    \
+2. python server.py    \
 
 
 3. set path=C:\Python27\
